@@ -10,7 +10,7 @@ import (
 	"os"
 	"sync"
 
-	"github.com/boringproxy/boringproxy"
+	"github.com/panchnayak/bigopentunnel"
 )
 
 const usage = `Usage: %s [command] [flags]
