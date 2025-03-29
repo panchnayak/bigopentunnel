@@ -1,4 +1,4 @@
-module github.com/boringproxy/boringproxy
+module github.com/panchnayak/bigopentunnel
 
 go 1.17
 
